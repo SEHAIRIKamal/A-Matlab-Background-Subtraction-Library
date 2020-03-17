@@ -131,3 +131,5 @@ Imaging, vol. 26, p. 023025, 2017. doi: 10.1117/1.JEI.26.2.023025.
 ## Download PDF
 https://arxiv.org/pdf/1804.05459
 https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-26/issue-2/023025/Comparative-study-of-motion-detection-methods-for-video-surveillance-systems/10.1117/1.JEI.26.2.023025.short?SSO=1
+
+[![Stargazers over time](https://starchart.cc/SEHAIRIKamal/A-Matlab-Background-Subtraction-Library.svg)](https://starchart.cc/SEHAIRIKamal/A-Matlab-Background-Subtraction-Library)
