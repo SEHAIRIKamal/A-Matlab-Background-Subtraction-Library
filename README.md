@@ -6,7 +6,7 @@ A Matlab Background Subtraction Library
 
 Last page update 17-03-2020
 
-The K.Sehairi_UATL_BGS_library is Background subtraction Library developed by Dr. Sehairi Kamal in 2015. 
+The UATL_BGS_library is Background subtraction Library developed by Dr. Sehairi Kamal in 2015. 
 It contains more than 30 background subtraction algorithms implemented using Matlab. 
 The library is tested on Matlab 2015 and higher.
 The algorithms are written from scratch. All scripts are not vectorized and are not fully optimized.
